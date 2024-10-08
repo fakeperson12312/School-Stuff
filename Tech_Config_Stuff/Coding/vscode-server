@@ -1,0 +1,7 @@
+To create a vscode server, firstly, I know how to do this on linux and using window's wsl or vmware or virtualbox or smth else. If you don't even know what vscode is, go research it, it's w 
+Though there are other text editors that are also good, like the good and reliable vim or maybe use sublime text or one of the newer ones that are meant to "Overtake vscode". 
+So here's a couple links for you to do it for yourself, a much better guide:
+https://code.visualstudio.com/docs/remote/vscode-server
+https://code.visualstudio.com/docs/remote/tunnels#_using-the-code-cli
+https://code.visualstudio.com/docs/remote/tunnels#_using-the-vs-code-ui
+Basically, the gist of it is copy and paste to install some stuff, run code tunnel --no-sleep, log into github, and you can access your computer and terminal at school. 
