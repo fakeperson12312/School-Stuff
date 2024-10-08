@@ -1,0 +1,5 @@
+This is the way of creating a server on github. 
+Follow the instructions from: https://github.com/fakeperson12312/server-test (lol totally not just stolen from somewhere else)
+So click the green code button to see two options: local and codespaces. Go to codespaces, add a new one, then control-shift-p and search terminal, choose write data to terminal or smth, open it up
+Copy and paste the instructions, or if ur like me and actually know how to do this cs stuff, u can modify anything u want. The first time you run it, it needs to you edit the eula.txt
+What you can do is go to the "server" directory, nano eula.txt (these files won't be here before you run it), and change the eula=false to eula=TRUE Then follow the instructions again. 
