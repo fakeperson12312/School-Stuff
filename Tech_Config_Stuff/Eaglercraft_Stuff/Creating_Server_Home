@@ -1,0 +1,21 @@
+So I only recently got into Eaglercraft, and by then, my friend had managed to host it on github. 
+But that had its limitations because of 120 hours per month and he had to turn it on every 4 hours. 
+Somehow he managed to max out 120 hours in a week (no clue how), and got himself banned. 
+Since I already have a github account and don’t want to get banned for making multiple accounts, I decided to learn how to self-host it. 
+I decided to learn how to make a server by self-hosting, and after watching bedrock’s videos on making it, getting to the end, and discovering that it cost money, 
+I tried a different way. 
+This is an extremely easy way that might not even be counted as self-hosting, and I’m not sure why I didn’t think of it.
+Get a usable computer that is either not in use or can handle a server running in the background.
+Using any operating system, (This actually doesn’t matter for once), download and install vscode which might already be installed.
+Download the files, I attached 2 different github links below for where I got mine from. 
+Run it, change the eula in the server directory to be TRUE. usually, in github, it asks you if you want to forward a port and make it public, but you can still manually do this in vscode (or by doing it in the terminal, I attached a stackoverflow question about this) by going to ports and forwarding it with remote tunnel access.
+Get the link for port 8081 and send it to people.
+You could also use your own server and follow bedrock’s yt guide for a more comprehensive idea
+I know that you could probably do all of this in a terminal, like for linux, opening the terminal then the usual sudo apt-get update and sudo apt-get upgrade, along with installing java, like sudo apt-get install openjdk-17-jdk (not sure if this actually works im just going by memory) or wtv type of java you want. Cd into the directories, start server, then do “ssh -L 8081:remote-machine-ip:8081 remote-machine-ip” im not even sure if this works bc im too lazy to test this once I got it working. 
+And thats it
+Useful Links:
+https://github.com/IsmaelTechDEV/EaglerXVelocity
+https://github.com/IsmaelTechProxy/server-test
+https://code.visualstudio.com/Download
+More links:
+https://stackoverflow.com/questions/63701361/how-does-vscode-remote-development-forward-port-work
