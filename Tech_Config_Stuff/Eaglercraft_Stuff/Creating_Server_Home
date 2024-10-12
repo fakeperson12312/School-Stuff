@@ -17,6 +17,9 @@ sudo apt-get update and sudo apt-get upgrade, along with installing java, like s
 (not sure if this actually works im just going by memory) or wtv type of java you want. 
 cd into the directories, start server, then do “ssh -L 8081:remote-machine-ip:8081 remote-machine-ip” im not even sure if this works bc im too lazy to test this once I got it working. 
 And thats it
+UPDATE: 
+Another thing about this was that what I do now is with no gui, just the terminal so i stopped the display manager (gdm3) and I set it to auto boot to only the terminal, I can still access the display manger,
+But all I need is to install vscode tunnels and connect to my computer at home, free code dev at school, no github codespaces or anything, just plain old vscode. It's also real vscode, even though it's browser. 
 Useful Links:
 https://github.com/IsmaelTechDEV/EaglerXVelocity
 https://github.com/IsmaelTechProxy/server-test
