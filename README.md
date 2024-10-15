@@ -9,8 +9,9 @@ Fake readme below:
 Lol none
 
 # Other
-To Download it u can just do, on linux in the terminal:
+To Download it u can just do, in the terminal:
 ```bash
  git clone https://github.com/fakeperson12312/Rigging-Stuff-and-Chickless-Assignments.git
 ```
+(That's if u have git installed)
 Or, you can just click code and then download zip. 
