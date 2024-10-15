@@ -3,3 +3,14 @@ This contains chickless edpuzzle answers for the wy 2024-2025 school year, all t
 also if ur a cheater make a bookmark and copy and paste this into it: 'javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))' Simple code from another source. Credits to https://edpuzzle.hs.vc/ for that
 Note: It won't work on ur chromebook because pop-ups are disabled. 
 The other tech stuff is in another folder
+
+Fake readme below:
+# Releases
+Lol none
+
+# Other
+To Download it u can just do, on linux in the terminal:
+```bash
+ git clone https://github.com/fakeperson12312/Rigging-Stuff-and-Chickless-Assignments.git
+```
+Or, you can just click code and then download zip. 
