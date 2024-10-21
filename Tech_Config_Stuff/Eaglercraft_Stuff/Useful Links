@@ -5,3 +5,9 @@ https://github.com/IsmaelTechProxy/server-test - Main thing that I use. It's sta
 I created a few clones of all of this github stuff, except the 2nd one which may be a hack client, who knows? There's plenty out there, go find some yourself, it's not that hard. 
 https://docs.google.com/document/d/1_xuxhQGZr_ZDamYC87U4-pm5opn8TPJzkNS4ONfb3RA/edit
 That's a link for my eaglercraft codes and stuff
+Pretty sure there's some other links for getting higher versions of eaglercraft working, not sure what the links are though.
+But here's some of my own websites for eaglercraft (not self-hosted but on vercel) (cloudflare pages works, along with render) 
+If u want self-hosted, go do some nginx work or apache. 
+https://testing2-rho-three.vercel.app/ - Plugin to make smoother
+https://testing-sable-sigma.vercel.app/ - Sigma original version
+https://heck-pink.vercel.app/ - hecks
