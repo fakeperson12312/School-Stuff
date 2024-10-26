@@ -26,15 +26,16 @@ sudo apt-get update
 sudo apt-get full-upgrade -y
 sudo apt autoremove
 ```
-Next, install kasm.
+Next, install kasm.  
 **basic install**
 ```bash
 cd /tmp
 curl -O https://kasm-static-content.s3.amazonaws.com/kasm_release_1.16.0.a1d5b7.tar.gz
+
 tar -xf kasm_release_1.16.0.a1d5b7.tar.gz
-sudo bash kasm_release/install.sh --admin-password <insert-password> --user-password <insert-password>
+sudo bash kasm_release/install.sh --admin-password password --user-password password
 ```
-It will tell you your password
+It will tell you your password if you don't add the extra options. Instead of password, choose a secure one instead.   
 **install if you have space**
 ```bash
 cd /tmp
@@ -42,7 +43,8 @@ curl -O https://kasm-static-content.s3.amazonaws.com/kasm_release_1.16.0.a1d5b7.
 tar -xf kasm_release_1.16.0.a1d5b7.tar.gz
 sudo bash kasm_release/install.sh -W -e --admin-password password --user-password password
 ```
-**other installs*
+**other installs**
+```bash
 cd /tmp
 curl -O https://kasm-static-content.s3.amazonaws.com/kasm_release_1.16.0.a1d5b7.tar.gz
 tar -xf kasm_release_1.16.0.a1d5b7.tar.gz
