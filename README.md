@@ -15,3 +15,5 @@ To Download it u can just do, in the terminal:
 ```
 (That's if u have git installed)
 Or, you can just click code and then download zip. 
+# Random Moments
+![image](https://github.com/user-attachments/assets/42d2e545-c12c-4eaf-b081-e6fef57de58b)
