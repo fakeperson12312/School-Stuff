@@ -19,7 +19,7 @@ Or, you can just click code and then download zip.
 ![image](https://github.com/user-attachments/assets/42d2e545-c12c-4eaf-b081-e6fef57de58b)
   
 “I’m a big fan of children” - Mr. Chickless, 2/2/24, 2:24 PM  
-“That’s why you’re friends with Mr. Edwards” - Ethan (9th grade), 2/2/24, 2:25 PM  
+“That’s why you’re friends with Mr. Edwards” - Ethan Jiao, 2/2/24, 2:25 PM  
 “I’m a bad teacher, but you’re a horrible student” - Mr. Chickless, 2024  
 “You swear at me, I swear back and throw a chair at you” - Mr. Chickless, 2024  
 “Why? Because I’m crazy” - Mr. Chickless, 2024  
