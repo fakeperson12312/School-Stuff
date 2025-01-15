@@ -1,5 +1,5 @@
 # ICS assignments' answers
-This will not include personal projects, some answers may not be the best, and I may be too lazy to think of the best solutions (btw only the first few are here, some will be in the google drive)
+This will not include personal projects, some answers may not be the best, and I may be too lazy to think of the best solutions - aka i was too lazy and i can take a few points off (btw only the first few are here, some will be in the google drive)
 Some are some gifts from other people with their projects
 Some files might not be readable, so maybe just directly download it? 
 Here's the google drive for it anyway:
