@@ -10,7 +10,7 @@ And i've tried redacting all the names, if u find one just ignore it
 
   # Fake Sponsership
 
-How would you like to spend 12 hours a day on your favorite website ever without the fear of your data being stolen? 
+How would you like to spend 12 hours a day on your favorite website ever without the fear of your data being stolen? ("I love going on the corn hub" - random short octo 2024-2025 in november at around 3:45 pm)
 Then you need NordVPN. NordVPN has thousands of secure servers in 59 countries, allowing you to safely surf the net at the fastest possible speed, 
 while staying away from online threats, thanks to the anti-malware tool, CyberSec. NordVPN comes with a 30-day money-back guarantee, and now, 
 you can take advantage of their new password manager, NordPass, and new encrypted cloud storage solution, NordLocker. 
