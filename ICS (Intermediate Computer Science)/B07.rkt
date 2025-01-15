@@ -1,0 +1,42 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname B07) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
+(require picturing-programs)
+;; a
+(define (r1 x y)
+  0)
+(define (g1 x y)
+  0)
+(define (b1 x y)
+  (min 255 x))
+(build3-image 255 100 r1 g1 b1)
+;; b
+(build3-image 510 100 r1 g1 b1)
+;; c
+(define (r2 x y)
+  (- 255 x))
+(define (g2 x y)
+  255)
+(define (b2 x y)
+  (- 255 x ))
+(build3-image 255 75 r2 g2 b2)
+;; d
+;;(name->color "firebrick")
+;;(make-color 178 34 34 255)
+(define (r3 x y)
+  (- 255 (floor (* 77/1000 x))))
+(define (g3 x y)
+  (- 255 (floor (* 221/1000 x))))
+(define (b3 x y)
+  (- 255 (floor (* 221/1000 x))))
+(build3-image 1000 230 r3 g3 b3)
+;; e
+;; (name->color "darkolivegreen")
+;; (make-color 85 107 47 255)
+(define (r4 x y)
+  (- 255 (floor (* 170/500 x))))
+(define (g4 x y)
+  (- 255 (floor (* 148/500 x))))
+(define (b4 x y)
+  (- 255 (floor (* 208/500 x))))
+(rotate-cw (build3-image 500 200 r4 g4 b4))
