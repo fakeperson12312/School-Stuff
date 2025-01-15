@@ -28,3 +28,4 @@ sudo vim /var/www/html/index.html
 That's just editing index.html files at that point. If u wanted smth without coding that's free just use google sites or smth
 Another way, if you don't want to install ngrok is by using vscode port forwarding, making it public, and copy and pasting the link.
 So u might notice there's nginx at the very first thing that's installed. That's another option rather than apache2. U can mess with it urself, im not gonna write it down
+Also ngrok is kinda limited, now I prefer **tailscale** it's the best
