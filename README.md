@@ -1,12 +1,15 @@
 # chickless_edpuzzle_and_some_other_stuff
-This contains chickless edpuzzle answers for the wy 2024-2025 school year, all that I could get. The first month is not there because I don't feel like adding that stuff do it urself, Yes I do know that i could use quizlet
+This contains chickless edpuzzle answers for the wy 2024-2025 school year, all that I could get. The first month and later months aren't there because I don't feel like adding that stuff do it urself, Yes I do know that i could use quizlet
 also if ur a cheater make a bookmark and copy and paste this into it: 'javascript: fetch("https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js").then(r => r.text()).then(r => eval(r))' Simple code from another source. Credits to https://edpuzzle.hs.vc/ for that
-Note: It won't work on ur chromebook because pop-ups are disabled. 
+Note: It won't work on ur chromebook and ur school google acc because bookmark js is disabled, use another google acc and login with that google acc. 
 The other tech stuff is in another folder
 
 Fake readme below:
 # Releases
-Lol none
+Lol none, but here's two quizlets and one blooket:
+https://dashboard.blooket.com/set/6779e824a7199be10869a5f1  
+https://quizlet.com/987291627/chickless-greek-and-roman-quizlet-practice-for-chapters-1-and-2-harder-questions-flash-cards/  
+https://quizlet.com/991409856/semester-1-final-exam-23-24-version-c-chickless-flash-cards/  
 
 # Other
 To Download it u can just do, in the terminal:
