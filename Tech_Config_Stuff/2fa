@@ -2,3 +2,4 @@ So for github authentication, there's this google extension called authenticator
 You can use that to scan the qr code for 2fa and then you can use that for your 2 factor authentication because github requires it as you use other stuff. 
 Also, try not to get banned from github. A few ways are creating multiple accounts and abusing codespaces. 2fa secures it, and also if you get free trial and attach your account to a bunch of other stuff, 
 you're less likely to get banned. I suggest a 45 minute limit for codespaces, works pretty well with the block periods. 
+Also connect your account with a bunch of other stuff and make it seem legit by creating some repos, commiting, and stuff
