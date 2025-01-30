@@ -13,3 +13,8 @@ a chromebook media player thingy will popup on ur taskbar with a music and 3 lin
 If you actually want to learn content ahead of time, i have the chapters here:
 https://drive.google.com/drive/u/0/folders/1aeqMdSg8_u7sH-VaMk8WHxfnzFjIJFv8  
 And to get the edpuzzles before he posts them, create an edpuzzle account as a teacher and search the titles that I have included in the folders (some had a / in them beforehand, which i changed to other words though)
+
+
+https://dashboard.blooket.com/set/6779e824a7199be10869a5f1 - smth
+https://quizlet.com/991409856/semester-1-final-exam-23-24-version-c-chickless-flash-cards/?funnelUUID=27ca90ba-ae1c-4efe-8422-853d014a4288
+https://quizlet.com/987291627/chickless-greek-and-roman-quizlet-practice-for-chapters-1-and-2-harder-questions-flash-cards/?funnelUUID=4bb2d6dd-b85a-4822-a78e-735db4ec33e9
