@@ -53,7 +53,7 @@ sudo bash kasm_release/install.sh --help
 lol with --help it gives you a menu to choose from
 **In the middle of the install, it might give you a few warnings.**
 If it asks about continuing, say y.
-If it asks about a **swap** file, say y and then choose from 1/4 to 1/2 of your ram to allocate, depending on if you're gonna use it for other stuff
+If it asks about a **swap** file, say y and then choose whatever's the best (higher is better), depending on if you're gonna use it for other stuff
 Now that you have it installed, install **cloudflared** so you can access it at school, on a different network. There are other ways.
 Hopefully you know what cloudflare is, but if you don't idc bc just copy and paste the damn instructions from the website.
 https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-local-tunnel/
