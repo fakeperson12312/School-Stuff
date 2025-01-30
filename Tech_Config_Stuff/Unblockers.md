@@ -1,4 +1,4 @@
-I don't feel like writing anymore today, so i'll jst create a list of the ones i've remembered
+I don't feel like writing anymore today, so i'll jst create a list of the ones i've remembered  
 dogeunblocker  
 interstellar  
 nano  (dont confuse with the cli text editor)
