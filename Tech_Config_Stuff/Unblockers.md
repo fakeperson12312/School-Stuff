@@ -4,7 +4,7 @@ interstellar
 nano  (dont confuse with the cli text editor)
 titanium.dev's everything
 terbiumOS  
-anuraOS 
+anuraOS  
 Rammerhead  
 tortillagames  
-some google extensions that i wont name
+some google extensions that i wont name  (did u know that harvard has a chrome graphing calculator??? [along with yale!])
