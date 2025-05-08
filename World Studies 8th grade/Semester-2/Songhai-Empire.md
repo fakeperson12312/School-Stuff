@@ -1,30 +1,29 @@
 **The capital of the Songhai people was**  
-Gao
+<small>Gao</small>
 
-**Not long after the death of Mansa Musa, Songhai gained it Independence from**  
-Mail
+**Not long after the death of Mansa Musa, Songhai gained its independence from**  
+<small>Mali</small>
 
 **Under Sunni Ali, the Songhai army grew to be**  
-40,000 strong
+<small>40,000 strong</small>
 
 **The city of Timbuktu was known as**  
-Both A and B (B. a trading center. and A. a city of learning.)
+<small>Both A and B (a trading center and a city of learning)</small>
 
-**As a military leader, Sunni Ali** 
-never lost a war.
+**As a military leader, Sunni Ali**  
+<small>never lost a war.</small>
 
 **Why did Sunni Ali try to please both Pagan and Muslims?**  
-Muslims brought in trade and learning  
-Pagans brought in cattle and food
+<small>Muslims brought in trade and learning; Pagans brought in cattle and food.</small>
 
 **Most of the Songhai people**  
-kept their traditional beliefs.
+<small>kept their traditional beliefs.</small>
 
 **The most important natural spirits in traditional Songhai beliefs were the**  
-Niger River & thunderstorms.
+<small>Niger River & thunderstorms.</small>
 
 **Slaves in the Songhai Empire were used as**  
-All of the above and more
+<small>All of the above and more.</small>
 
-**Ultimately, the Songhai Empire collapsed due to** 
-advances in weaponry by their enemies, especially gunpowder.
+**Ultimately, the Songhai Empire collapsed due to**  
+<small>advances in weaponry by their enemies, especially gunpowder.</small>
