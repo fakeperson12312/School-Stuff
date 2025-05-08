@@ -1,13 +1,13 @@
-**What was the European view of African history?****
+**What was the European view of African history?**
 African history is non-existent.
 
-**What happen to much of African oral traditions?****
+**What happen to much of African oral traditions?**
 They have faded out.
 
 **During the Middle Ages in Europe what was the name of the kingdom in southern Africa called.**
 The Great Kingdom of Zimbabwe.
 
-**What does the word Zimbabwe mean?****
+**What does the word Zimbabwe mean?**
 The great house of stone.
 
 **Europeans believed that African could...**
