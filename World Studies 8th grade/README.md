@@ -6,8 +6,8 @@ also if ur a cheater make a bookmark and copy and paste this into it: 'javascrip
 Simple code from another source. Credits to https://edpuzzle.hs.vc/ for that Note: It won't work on ur chromebook and ur school google acc because bookmark js is disabled,  
 use another google acc and login with that google acc. The other tech stuff is in another folder
 
-# simple heck
-a chromebook media player thingy will popup on ur taskbar with a music and 3 lines symbol (last i checked), drag that to the end then answer all the questions. ull still have to watch the video again though
+# simple heck (deprecated)
+a chromebook media player thingy will popup on ur taskbar with a music and 3 lines symbol (last i checked), drag that to the end then answer all the questions. 
 
 # additional info
 If you actually want to learn content ahead of time, i have the chapters here:
