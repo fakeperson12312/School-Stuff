@@ -10,7 +10,7 @@ use another google acc and login with that google acc. The other tech stuff is i
 a chromebook media player thingy will popup on ur taskbar with a music and 3 lines symbol (last i checked), drag that to the end then answer all the questions. 
 
 # additional info
-If you actually want to learn content ahead of time, i have the chapters here:
+If you actually want to learn content ahead of time, i have the chapters here (idk what happened to chapter 2):  
 https://drive.google.com/drive/u/0/folders/1aeqMdSg8_u7sH-VaMk8WHxfnzFjIJFv8  
 And to get the edpuzzles before he posts them, create an edpuzzle account as a teacher and search the titles that I have included in the folders (some had a / in them beforehand, which i changed to other words though)
 
