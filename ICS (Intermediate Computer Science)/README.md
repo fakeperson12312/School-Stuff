@@ -1,11 +1,9 @@
 # ICS assignments' answers
-This will not include personal projects, some answers may not be the best, and I may be too lazy to think of the best solutions - aka i was too lazy and i can take a few points off (btw only the first few are here, some will be in the google drive)
+This will not include personal projects, some answers may not be the best, and I may be too lazy
 Some are some gifts from other people with their projects
-Some files might not be readable, so maybe just directly download it? 
-Here's the google drive for it anyway:
+Some files might not be readable, so maybe just directly download it
+Here's the google drive for it:
 https://drive.google.com/drive/u/0/folders/1AWojN39c36-nIECr5hfGOwHACU-31OXI
-(It'll be updated when it's updated, soo that may be at the very end of the year ill get around to it)
-bc ICS is kinda free and like 1 point doesn't matter. 
 And i've tried redacting all the names, if u find one just ignore it
 
   # Completely Real Sponsership
