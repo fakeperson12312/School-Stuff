@@ -1,0 +1,22 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname C05b) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
+(require picturing-programs)
+(define (above-diagonal? p)
+  (> (posn-y p) (posn-x p)))
+(check-expect (above-diagonal? (make-posn 1 2)) #true)
+(define (coordinate-difference p)
+  (abs (- (posn-x p) (posn-y p))))
+(check-expect (coordinate-difference (make-posn 0 0)) 0)
+(define (distance a b)
+  (sqrt (+ (* (- (posn-x a) (posn-x b)) (- (posn-x a) (posn-x b))) (* (- (posn-y a) (posn-y b)) (- (posn-y a) (posn-y b))))))
+(check-within (distance (make-posn 0 0) (make-posn 1 1)) 1.4 1.42)
+(define (posn=? a b)
+  (and (= (posn-x a) (posn-x b)) (= (posn-y a) (posn-y b))))
+(check-expect (posn=? (make-posn 1 1) (make-posn 1 1)) #true)
+(check-expect (posn=? (make-posn 1 1) (make-posn 1 2)) #false)
+(define (distance-to-origin n)
+  (cond [(posn? n) (distance n (make-posn 0 0))]
+        [else (abs (- n 0))]))
+(check-expect (distance-to-origin 10) 10)
+(check-expect (distance-to-origin (make-posn 3 4)) 5)

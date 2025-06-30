@@ -1,0 +1,17 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname C10) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
+(require picturing-programs)
+(define a (make-posn 130 150))
+(define b (make-posn 160 150))
+(define img (place-image (circle 5 "solid" "blue") (posn-x a) (posn-y a) (rectangle 300 300 "solid" "transparent")))
+(define img2 (place-image (circle 5 "solid" "blue") (posn-x b) (posn-y b) (rectangle 300 300 "solid" "transparent")))
+(define back (place-image img 150 150 img2))
+(define (distance x1 x2 y1 y2) (sqrt (+ (sqr (- x1 x2)) (sqr (- y1 y2)))))
+(define (dh pt)
+  (place-image (square 10 "solid" (cond [(and (<= (distance (posn-x pt) (posn-x a) (posn-y pt) (posn-y a)) 20) (<= (distance (posn-x pt) (posn-x b) (posn-y pt) (posn-y b)) 20)) "green"] [else "red"])) (posn-x pt) (posn-y pt) back))
+(define (mh model x y event)
+  (make-posn x y))
+(big-bang (make-posn 0 0)
+  (on-draw dh)
+  (on-mouse mh))
