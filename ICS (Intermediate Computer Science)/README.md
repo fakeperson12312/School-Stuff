@@ -8,7 +8,7 @@ https://drive.google.com/drive/u/0/folders/1AWojN39c36-nIECr5hfGOwHACU-31OXI
 bc ICS is kinda free and like 1 point doesn't matter. 
 And i've tried redacting all the names, if u find one just ignore it
 
-  # Fake Sponsership
+  # Completely Real Sponsership
 
 How would you like to spend 12 hours a day on your favorite website ever without the fear of your data being stolen?
 Then you need NordVPN. NordVPN has thousands of secure servers in 59 countries, allowing you to safely surf the net at the fastest possible speed, 
