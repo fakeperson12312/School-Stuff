@@ -19,8 +19,8 @@ To Download it u can just do, in the terminal:
 ```
 (That's if u have git installed)
 Or, you can just click code and then download zip. 
-# Random Moments
-![image](https://github.com/user-attachments/assets/42d2e545-c12c-4eaf-b081-e6fef57de58b)  
+<!-- # Random Moments
+![image](https://github.com/user-attachments/assets/42d2e545-c12c-4eaf-b081-e6fef57de58b)  T
 (He has guts i gotta give that to him)
   
 “I’m a big fan of children” - Mr. Chickless, 2/2/24, 2:24 PM  
@@ -55,3 +55,4 @@ T*yi: “Thanks for making my morning twice as bad” Chickless: “You made it 
 *Goes off on a rant about politicians being dumb* - Mr. Chickless, 2024  
 T*yi: “Can I use the bathroom?” Chickless: “No” T*yi: “It’s literally an emergency”   
 Chickless: “No” T*yi: “I literally drink water every single day” Chickless: “That’s a damn shame”. [To class]: “Should I trust him to go to the bathroom”? Entire class: “HAIL NO”  
+-->
